@@ -1,0 +1,29 @@
+#banner{
+    height: 800px;
+    width: 100%;
+    background-image: url("../img/WhatsApp\ Image\ 2025-05-27\ at\ 7.05.38\ PM.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 90%;
+    background-color: #ffe4f0;
+}
+.bg-menu{
+    background-color: transparent !important
+}
+
+.espacio-banner{
+    margin-top: 100px;
+}
+
+.productos-menu ul li a img{
+    width: 50px;
+
+}
+
+.productos-menu ul li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
